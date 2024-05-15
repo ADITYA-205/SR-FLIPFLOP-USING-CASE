@@ -1,5 +1,6 @@
 # SR-FLIPFLOP-USING-CASE
-
+## NAME: S ADITYA
+## REG NO: 212223040007
 # AIM:
 
 To implement  SR flipflop using verilog and validating their functionality using their functional tables
